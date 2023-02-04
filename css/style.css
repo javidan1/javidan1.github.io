@@ -38,7 +38,6 @@ body, html{
 }
 body{
 	position:relative;
-	overflow:hidden;
 	font-family: Lora, serif;
 	background:#F0F0F0 !important;
 }
@@ -94,7 +93,6 @@ body.border-dark .menu-btn > .lines > span{
 	-webkit-transition:width .6s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:width .6s cubic-bezier(.785,.135,.15,.86);
 	transition:width .6s cubic-bezier(.785,.135,.15,.86);
-	overflow:hidden;
 }
 .menu:hover,
 .menu-btn:hover + .menu{
@@ -188,7 +186,6 @@ body.border-dark .main-content > .page-border{
 	right:40px;
 	bottom:40px;
 	z-index:99;
-	overflow:hidden;
 	box-shadow: 0 0 0 10px #FFF;
 }
 .section{
